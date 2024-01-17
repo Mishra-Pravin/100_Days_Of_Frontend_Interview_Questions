@@ -17,7 +17,6 @@ I am myself learning 5 questions a day and will add those 5 questions a day in t
 | HTML       |        50        |  0-50   |  Day 1 - 10  |
 | CSS        |       100        | 51-150  | Day 11 - 30  |
 | Javascript |       180        | 151-330 | Day 31 - 66  |
-| React      |       170        | 331-465 | Day 67 - 93  |
 | Typescript |        35        | 466-500 | Day 94 - 100 |
 
 ## <br />
