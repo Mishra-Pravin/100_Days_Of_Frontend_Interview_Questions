@@ -18,6 +18,8 @@ I am myself learning 5 questions a day and will add those 5 questions a day in t
 | CSS        |       100        | 51-150  | Day 11 - 30  |
 | Javascript |       180        | 151-330 | Day 31 - 66  |
 | Typescript |        35        | 466-500 | Day 94 - 100 |
+| Javascript |      END         | 500-506 | Day101 - 200 |
+
 
 ## <br />
 
